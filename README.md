@@ -22,15 +22,15 @@ In this problem, we work with the datasets "hw4_2_1" and "hw4_2_2" from the file
 
 ## Files in the Repository:
 
-- problem1.m: MATLAB script for Problem 1.
-- problem2.m: MATLAB script for Problem 2.
-- README.md: This file providing an overview of the project.
+- 'problem1.m': MATLAB script for Problem 1.
+- 'problem2.m': MATLAB script for Problem 2.
+- 'README.md': This file providing an overview of the project.
 
 ## How to Use:
 
 1. Clone the repository to your local machine using:
    
-   git clone https://github.com/Prayash-Das/MATLAB-Machine-Learning-Projects.git
+   git clone 'https://github.com/Prayash-Das/MATLAB-Machine-Learning-Projects.git'
    
 2. Open MATLAB and run the scripts problem1.m and problem2.m to execute the code for each problem.
 3. Make sure you have the MATLAB environment set up with necessary toolboxes.
